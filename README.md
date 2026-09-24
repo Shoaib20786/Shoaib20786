@@ -5,6 +5,14 @@
 
 <p align="center">Flutter developer and team lead at Hertzworkz Private Limited. 2+ years shipping production apps on both the Play Store and the App Store. Now also building AI agents that qualify leads and book appointments for small businesses.</p>
 
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,aws,swift,kotlin,java,git,github,figma,postman,androidstudio,xcode&theme=dark" alt="Flutter, Dart, Firebase, Node.js, Express, AWS, Swift, Kotlin, Java, Git, GitHub, Figma, Postman, Android Studio, Xcode">
+</p>
+
+Also: Provider · BLoC · GoRouter · Socket.IO · Agora · CallKit · Hive · Razorpay · Stripe · n8n
+
 ## What I build
 
 - **Mobile apps end to end**: Flutter UI, Provider/BLoC state, REST and Firebase backends, push notifications, Play Store and App Store release.
