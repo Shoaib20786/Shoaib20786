@@ -27,6 +27,16 @@ Also: Provider · BLoC · GoRouter · Socket.IO · Agora · CallKit · Hive · R
 | MillGate HRMS ([App Store](https://apps.apple.com/in/app/millgatehrms/id6757781681) · [Play Store](https://play.google.com/store/apps/details?id=com.hertzworkz.milgate_hrms.milgate_hrms)) | Enterprise HRMS for admin, manager and employee roles: attendance and tracking, leave and compliance, visitor passes, meetings, internal chat, report downloads. Offline-first with background sync, in-app assistant bot, multi-organisation switcher. Source is private. | Built end to end by me. Flutter, Provider, GoRouter, REST, Socket.IO |
 | [gts_parent_tracking](https://github.com/Shoaib20786/gts_parent_tracking) | Parent trip-tracking prototype: live OpenStreetMap route, plain-language safety alerts, SOS flow, deterministic demo with unit tests | Solo. Flutter, flutter_map, Provider |
 
+## AI agent demos
+
+| Repo | What it does |
+|---|---|
+| [support-voice-agent](https://github.com/Shoaib20786/support-voice-agent) | Turns a documentation site into a support agent: crawl, index, answer only from the docs, speak the reply |
+| [ai-travel-agent](https://github.com/Shoaib20786/ai-travel-agent) | Researched day-by-day itineraries with live search, exported as a calendar file; runs on GPT-4o or local Llama |
+| [chat-with-pdf-rag](https://github.com/Shoaib20786/chat-with-pdf-rag) | Upload a PDF and chat with it through a retrieval-augmented pipeline, cloud or fully local |
+
+Adapted from the open-source awesome-llm-apps collection (Apache-2.0), packaged and maintained by me. Flutter clients for these are next.
+
 ## Production apps I built (client code is private)
 
 - **KKP Group App**: marketplace with real-time chat, voice calls (Agora + CallKit), push, AWS S3 uploads, Hive cache. Live on both stores.
