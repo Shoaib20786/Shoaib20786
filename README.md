@@ -9,7 +9,7 @@
 
 - **Mobile apps end to end**: Flutter UI, Provider/BLoC state, REST and Firebase backends, push notifications, Play Store and App Store release.
 - **Real-time features**: Socket.IO chat, Agora voice and video with native iOS CallKit through platform channels, live maps, background location, offline-first sync.
-- **AI agents for small businesses**: WhatsApp and web-chat agents that qualify a lead, book it into a calendar and log it, built on n8n and the Claude API.
+- **AI agents for small businesses**: WhatsApp and web-chat agents that qualify a lead, book it into a calendar and log it, built with n8n and LLM APIs.
 
 ## Featured
 
@@ -30,7 +30,7 @@
 
 ## Now
 
-- Open demos of **Flutter + AI agents**: a booking agent (Claude tool use, structured output, key kept server-side) and a chat-with-your-PDF app. First one lands this week.
+- Open demos of **Flutter + AI agents**: a booking agent (tool calling, structured output, API keys kept server-side) and a chat-with-your-PDF app. First one lands this week.
 - **DevClean for Mac**: a developer storage cleaner (Xcode, Flutter, node, Docker caches) with a report. Swift, native.
 - Learning **Node.js** properly by writing the automation behind my own work.
 
