@@ -16,12 +16,12 @@
 | Project | What it is | My part |
 |---|---|---|
 | [kkp_chat_app](https://github.com/QuantumSharqwebteam/kkp_chat_app) | Multi-role marketplace app (admin, agent, customer) with real-time chat, Agora calls that ring through CallKit, push, S3 media. Live on both stores. | Built end to end by me |
+| MillGate HRMS ([App Store](https://apps.apple.com/in/app/millgatehrms/id6757781681) · [Play Store](https://play.google.com/store/apps/details?id=com.hertzworkz.milgate_hrms.milgate_hrms)) | Enterprise HRMS for admin, manager and employee roles: attendance and tracking, leave and compliance, visitor passes, meetings, internal chat, report downloads. Offline-first with background sync, in-app assistant bot, multi-organisation switcher. Source is private. | Built end to end by me. Flutter, Provider, GoRouter, REST, Socket.IO |
 | [gts_parent_tracking](https://github.com/Shoaib20786/gts_parent_tracking) | Parent trip-tracking prototype: live OpenStreetMap route, plain-language safety alerts, SOS flow, deterministic demo with unit tests | Solo. Flutter, flutter_map, Provider |
 
 ## Production apps I built (client code is private)
 
 - **KKP Group App**: marketplace with real-time chat, voice calls (Agora + CallKit), push, AWS S3 uploads, Hive cache. Live on both stores.
-- **MillGate HRMS**: employee tracking, leave and compliance, visitor passes, meetings, internal chat. Offline-first with background sync, in-app assistant bot, multi-organisation switcher. Live on both stores.
 - **Vakildot**: lawyer-client chat on Firebase RTDB with cross-session history merge, Agora video with CallKit and FCM background signalling. Live on both stores.
 - **VitaYolkz**: poultry e-commerce with cart, order flow, live map delivery tracking over WebSockets. Live on both stores.
 - **Flock Matrix**: poultry farm management with flock records, daily logs and farm reports. Live on the App Store.
