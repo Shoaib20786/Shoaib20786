@@ -23,7 +23,7 @@ Also: Provider · BLoC · GoRouter · Socket.IO · Agora · CallKit · Hive · R
 
 | Project | What it is | My part |
 |---|---|---|
-| [kkp_chat_app](https://github.com/QuantumSharqwebteam/kkp_chat_app) | Multi-role marketplace app (admin, agent, customer) with real-time chat, Agora calls that ring through CallKit, push, S3 media. Live on both stores. | Built end to end by me |
+| [kkp_chat_app](https://github.com/QuantumSharqwebteam/kkp_chat_app) ([App Store](https://apps.apple.com/in/app/kkp-group/id6748518075) · [Play Store](https://play.google.com/store/apps/details?id=com.kkptextile.kkpchatapp)) | Multi-role marketplace app (admin, agent, customer) with real-time chat, Agora calls that ring through CallKit, push, S3 media. Live on both stores. | Built end to end by me |
 | MillGate HRMS ([App Store](https://apps.apple.com/in/app/millgatehrms/id6757781681) · [Play Store](https://play.google.com/store/apps/details?id=com.hertzworkz.milgate_hrms.milgate_hrms)) | Enterprise HRMS for admin, manager and employee roles: attendance and tracking, leave and compliance, visitor passes, meetings, internal chat, report downloads. Offline-first with background sync, in-app assistant bot, multi-organisation switcher. Source is private. | Built end to end by me. Flutter, Provider, GoRouter, REST, Socket.IO |
 | [gts_parent_tracking](https://github.com/Shoaib20786/gts_parent_tracking) | Parent trip-tracking prototype: live OpenStreetMap route, plain-language safety alerts, SOS flow, deterministic demo with unit tests | Solo. Flutter, flutter_map, Provider |
 
