@@ -22,33 +22,13 @@ I build Flutter apps of every kind and take them from the first screen to both s
 | **In my apps** | Provider · BLoC · GoRouter · Socket.IO · WebSockets · Agora · CallKit · Hive · WorkManager · ML Kit · Razorpay · Stripe · FCM · Crashlytics |
 | **AI and automation** | n8n · LLM APIs · tool calling · retrieval (RAG) · WhatsApp Cloud API |
 
-## Portfolio
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/app-kkp-dark.svg">
-  <img src="assets/app-kkp-light.svg" alt="KKP Group app: real-time chat, Agora calls with CallKit, ML Kit inquiries. Live on Google Play and the App Store." width="100%">
-</picture>
-
-[App Store](https://apps.apple.com/au/app/kkp-group/id6748518075) · [Google Play](https://play.google.com/store/apps/details?id=com.kkptextile.kkpchatapp) · [Source](https://github.com/QuantumSharqwebteam/kkp_chat_app)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/app-millgate-dark.svg">
-  <img src="assets/app-millgate-light.svg" alt="MillGate HRMS: 13 HR modules, offline-first sync, assistant chatbot. In daily use by 3 organizations." width="100%">
-</picture>
-
-[App Store](https://apps.apple.com/in/app/millgatehrms/id6757781681) · [Google Play](https://play.google.com/store/apps/details?id=com.hertzworkz.milgate_hrms.milgate_hrms)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/app-flockmatrix-dark.svg">
-  <img src="assets/app-flockmatrix-light.svg" alt="FlockMatrix: poultry farm management that works offline, with PDF and Excel reports in three languages." width="100%">
-</picture>
-
-[App Store](https://apps.apple.com/us/app/flockmatrix/id6804997677) · Google Play
-
-**More apps I built**
+## Apps I built
 
 | App | What it does | Status |
 |---|---|---|
+| **KKP Group** | Textile marketplace for admins, agents and buyers: Socket.IO chat with voice notes, Agora calls on a native iOS CallKit screen, ML Kit turning chats into tracked inquiries. [Source](https://github.com/QuantumSharqwebteam/kkp_chat_app) | Live · [App Store](https://apps.apple.com/au/app/kkp-group/id6748518075) · [Google Play](https://play.google.com/store/apps/details?id=com.kkptextile.kkpchatapp) |
+| **MillGate HRMS** | HR for mills: 13 modules, offline-first with background sync, an assistant chatbot for leave and complaints, organization switcher. In daily use by 3 organizations | Live · [App Store](https://apps.apple.com/in/app/millgatehrms/id6757781681) · [Google Play](https://play.google.com/store/apps/details?id=com.hertzworkz.milgate_hrms.milgate_hrms) |
+| **FlockMatrix** | Poultry farm management that works with no signal: flocks, feed, health, PDF and Excel reports in English, Hindi and Tamil | Live · [App Store](https://apps.apple.com/us/app/flockmatrix/id6804997677) · Google Play |
 | **Vakildot** | Legal consultation: real-time lawyer and client chat, Agora video calls with CallKit and background push | Live · [Google Play](https://play.google.com/store/apps/details?id=com.vakildot.legal) |
 | **ERP Lead App** | Metal-recycling plant ERP: gate pass, weighbridge, goods receipt, inventory, production, sales, logistics, QR documents | Live · Google Play, in daily client use |
 | **ScaleAI** | Weighbridge operations on a phone: weighment queue, slips, reports | Live · Google Play, in daily client use |
