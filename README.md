@@ -1,58 +1,52 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Mohd Shoaib, Flutter developer and team lead at Hertzworkz Private Limited" width="100%">
+  <img src="assets/hero-light.svg" alt="Mohd Shoaib, Flutter Developer and Team Lead at Hertzworkz Private Limited. Plan, build, review, test, release, monitor." width="100%">
 </picture>
 
-<p align="center">Flutter developer and team lead at Hertzworkz Private Limited. 2+ years shipping production apps on both the Play Store and the App Store. Now also building AI agents that qualify leads and book appointments for small businesses.</p>
+I build Flutter apps of every kind and take them from the first screen to both stores. In 2+ years I have shipped 10+ production apps for HR, ERP, marketplace, legal, e-commerce and farm clients, and I lead a team of 4–6 developers at Hertzworkz Private Limited. Open to remote Flutter and mobile roles.
 
-## Tech stack
+## What I build into an app
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,aws,swift,kotlin,java,git,github,figma,postman,androidstudio,xcode&theme=dark" alt="Flutter, Dart, Firebase, Node.js, Express, AWS, Swift, Kotlin, Java, Git, GitHub, Figma, Postman, Android Studio, Xcode">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg">
+  <img src="assets/capabilities-light.svg" alt="Capabilities: real-time chat, voice and video calls, push notifications, payments, maps and live tracking, AI and ML, offline-first sync, reports and dashboards, native features, roles and organizations, localization, media and cloud" width="100%">
+</picture>
 
-Also: Provider · BLoC · GoRouter · Socket.IO · Agora · CallKit · Hive · Razorpay · Stripe · n8n
+## Products
 
-## What I build
-
-- **Mobile apps end to end**: Flutter UI, Provider/BLoC state, REST and Firebase backends, push notifications, Play Store and App Store release.
-- **Real-time features**: Socket.IO chat, Agora voice and video with native iOS CallKit through platform channels, live maps, background location, offline-first sync.
-- **AI agents for small businesses**: WhatsApp and web-chat agents that qualify a lead, book it into a calendar and log it, built with n8n and LLM APIs.
-
-## Featured
-
-| Project | What it is | My part |
+| Product | What it does | Status |
 |---|---|---|
-| [kkp_chat_app](https://github.com/QuantumSharqwebteam/kkp_chat_app) ([App Store](https://apps.apple.com/in/app/kkp-group/id6748518075) · [Play Store](https://play.google.com/store/apps/details?id=com.kkptextile.kkpchatapp)) | Multi-role marketplace app (admin, agent, customer) with real-time chat, Agora calls that ring through CallKit, push, S3 media. Live on both stores. | Built end to end by me |
-| MillGate HRMS ([App Store](https://apps.apple.com/in/app/millgatehrms/id6757781681) · [Play Store](https://play.google.com/store/apps/details?id=com.hertzworkz.milgate_hrms.milgate_hrms)) | Enterprise HRMS for admin, manager and employee roles: attendance and tracking, leave and compliance, visitor passes, meetings, internal chat, report downloads. Offline-first with background sync, in-app assistant bot, multi-organisation switcher. Source is private. | Built end to end by me. Flutter, Provider, GoRouter, REST, Socket.IO |
-| [gts_parent_tracking](https://github.com/Shoaib20786/gts_parent_tracking) | Parent trip-tracking prototype: live OpenStreetMap route, plain-language safety alerts, SOS flow, deterministic demo with unit tests | Solo. Flutter, flutter_map, Provider |
+| **MillGate HRMS** | HR for mills: 13 modules, background sync, an assistant chatbot for leave and complaints. In daily use by 3 organizations. | Live · [App Store](https://apps.apple.com/in/app/millgatehrms/id6757781681) · [Google Play](https://play.google.com/store/apps/details?id=com.hertzworkz.milgate_hrms.milgate_hrms) |
+| **KKP Group** | Textile marketplace for admins, agents and buyers: Socket.IO chat, Agora calls on a native iOS CallKit screen, ML Kit turning chats into tracked inquiries. [Source](https://github.com/QuantumSharqwebteam/kkp_chat_app) | Live · [App Store](https://apps.apple.com/au/app/kkp-group/id6748518075) · [Google Play](https://play.google.com/store/apps/details?id=com.kkptextile.kkpchatapp) |
+| **FlockMatrix** | Poultry farm management that works in sheds with no signal: flocks, feed, health, PDF and Excel reports in English, Hindi and Tamil. | Live · [App Store](https://apps.apple.com/us/app/flockmatrix/id6804997677) · Google Play |
+| **Vakildot** | Legal consultation: real-time lawyer and client chat, Agora video calls with CallKit and background push. | Live · [Google Play](https://play.google.com/store/apps/details?id=com.vakildot.legal) |
+| **HR super-app** | 20+ modules: attendance, leave, recruitment, payroll documents, chat, meetings and WebSocket calling. | In use at Hertzworkz |
+| **ERP Lead App** | Metal-recycling plant ERP: gate pass, weighbridge, goods receipt, inventory, production, sales and logistics, with QR documents. In daily use by the client. | Live · Google Play |
+| **ScaleAI** | Weighbridge operations on a phone: weighment queue, slips, reports. In daily use by the client. | Live · Google Play |
+| **VitaYolkz** | Egg e-commerce: catalogue, cart, live delivery tracking on a map. | In development |
 
-## AI agent demos
+Client source code stays private; the store listings are public.
 
-| Repo | What it does |
+## How I work
+
+- **Plan:** API contracts agreed with backend before screens are built; I fix backend bugs too (Node.js, Express).
+- **Build:** Clean Architecture, feature-first modules, Provider or BLoC, GoRouter.
+- **Review and test:** every merge reviewed; unit tests on core logic.
+- **Release:** both stores, kept current with Apple and Google policy (target API level, Data safety, privacy manifests, account deletion).
+- **Monitor:** Crashlytics, 99%+ crash-free sessions.
+- **Secure by default:** tokens in Keychain and Keystore, no secrets in app code, obfuscated releases, role-based access.
+
+## Open source
+
+| Repo | What it is |
 |---|---|
-| [support-voice-agent](https://github.com/Shoaib20786/support-voice-agent) | Turns a documentation site into a support agent: crawl, index, answer only from the docs, speak the reply |
-| [ai-travel-agent](https://github.com/Shoaib20786/ai-travel-agent) | Researched day-by-day itineraries with live search, exported as a calendar file; runs on GPT-4o or local Llama |
-| [chat-with-pdf-rag](https://github.com/Shoaib20786/chat-with-pdf-rag) | Upload a PDF and chat with it through a retrieval-augmented pipeline, cloud or fully local |
+| [gts_parent_tracking](https://github.com/Shoaib20786/gts_parent_tracking) | Parent trip tracking: live OpenStreetMap route, plain-language safety alerts, SOS flow, unit tested |
+| [support-voice-agent](https://github.com/Shoaib20786/support-voice-agent) | Turns a documentation site into a voice support agent that answers only from the docs |
+| [ai-travel-agent](https://github.com/Shoaib20786/ai-travel-agent) | Day-by-day itineraries with live search, exported as a calendar file |
+| [chat-with-pdf-rag](https://github.com/Shoaib20786/chat-with-pdf-rag) | Chat with a PDF through a retrieval pipeline, cloud or fully local |
 
-Adapted from the open-source awesome-llm-apps collection (Apache-2.0), packaged and maintained by me. Flutter clients for these are next.
+The three agent repos are adapted from the open-source awesome-llm-apps collection (Apache-2.0) and maintained by me.
 
-## Production apps I built (client code is private)
+**Stack:** Flutter · Dart · BLoC · Provider · GoRouter · Firebase · REST · Socket.IO · WebSockets · Hive · WorkManager · Agora · CallKit · ML Kit · Razorpay · Stripe · AWS S3 · Node.js · Git
 
-- **KKP Group App**: marketplace with real-time chat, voice calls (Agora + CallKit), push, AWS S3 uploads, Hive cache. Live on both stores.
-- **Vakildot**: lawyer-client chat on Firebase RTDB with cross-session history merge, Agora video with CallKit and FCM background signalling. Live on both stores.
-- **VitaYolkz**: poultry e-commerce with cart, order flow, live map delivery tracking over WebSockets. Live on both stores.
-- **Flock Matrix**: poultry farm management with flock records, daily logs and farm reports. Live on the App Store.
-- **ERP Lead App**: lead-metal trading and manufacturing ERP: gate pass, GRN, inventory, production, pricing, sales, weighbridge. In final testing.
-- **ScaleAI**: a weighbridge on a phone for Mahendra Feeds: weighment queue, slips, masters, reports. Launching next week.
-
-## Now
-
-- Open demos of **Flutter + AI agents**: a booking agent (tool calling, structured output, API keys kept server-side) and a chat-with-your-PDF app. First one lands this week.
-- **DevClean for Mac**: a developer storage cleaner (Xcode, Flutter, node, Docker caches) with a report. Swift, native.
-- Learning **Node.js** properly by writing the automation behind my own work.
-
-## Reach me
-
-- LinkedIn: https://linkedin.com/in/mohdshoaib1
-- Email: mohd.shoaib20786@gmail.com
+**Reach me:** [Portfolio](https://mohd-shoaib-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/mohdshoaib1) · mohd.shoaib20786@gmail.com
